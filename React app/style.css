@@ -14,7 +14,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 15px 10%;
-    background-color: #188fdf;
+    background-color: #c23636;
   }
   
   .logo-text a,
@@ -22,22 +22,22 @@
     font-family: "Montserrat", sans-serif;
     font-size: 1.5em;
     font-weight: 500;
-    color: white;
+    color: rgb(255, 255, 255);
     text-decoration: none;
   }
   
   .cta {
     padding: 9px 25px;
-    background-color: white;
+    background-color: rgb(243, 242, 248);
     border: none;
     border-radius: 50px;
     cursor: pointer;
     transition: background-color 0.3s ease 0s;
-    color:black
+    color:rgb(221, 83, 83)
   }
   
   .cta:hover {
-    background-color: rgb(255, 0, 149);
+    background-color: rgba(39, 202, 112, 0.993);
   }
   
   .cards {
@@ -48,7 +48,7 @@
     font-family: "Candara", sans-serif;
     width: 340px;
     overflow: hidden;
-    background: rgba(9, 215, 230, 0.993);
+    background: rgba(39, 202, 112, 0.993);
     box-shadow: 0px 10px 15px 0px rgba(0, 0, 0, 0.8);
     display: inline-block;
     flex-direction: column;

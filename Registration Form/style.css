@@ -20,7 +20,7 @@ body .container{
 .form{
     padding: 3em;
     text-align: left;
-    border-right: 0.3rem solid rgb(248, 194, 169)"
+    border-right: 0.3rem solid rgb(15, 15, 15)"
 }
 
 .text_field input{
@@ -85,12 +85,12 @@ label{
 } 
 
 .result .image.coloumn{
-    border: 1px solid grey;
+    border: 1px solid rgb(8, 8, 8);
     text-align: left;
     align-items: center;
     align-content: center;
     background-color: rgb(242, 245, 107);
-    color: rgb(8, 8, 8);
+    color:  rgb(8, 8, 8);
     font-weight: bold;
     width: 30%;
     flex: inherit;
